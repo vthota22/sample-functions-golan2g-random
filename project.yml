@@ -7,6 +7,6 @@ packages:
     actions:
       - name: random
         main: ''
-        runtime: 'go:default'
+        runtime: 'test'
         environment: {}
         parameters: {}
